@@ -1,3 +1,3 @@
-module github.com/FHeimburger/wowchemy-widget-teaching-widget
+module github.com/FHeimburger/teaching-widget
 
 go 1.15
